@@ -14,7 +14,7 @@
 <p>Vá para o arquivo chamado 'dbConnect.js':<br>
 Ele fica no caminho <code>'./src/config/dbConnect.js'</code><br>Depois edite o placeHolder <code>/*&ltconnection&gt*/</code> pela sua string de conexão do banco de dados.</p>
 
-<p>Por fim execute o comando <code>npm run dev</code> para inciar o servidor na porta 3000.</p>
+<p>Por fim execute o comando <code>npm run dev</code> para iniciar o servidor na porta 3000.</p>
 
 <h1>Modelos</h1>
 <p>Os modelos para esse banco de dados são os seguintes: Autor, Editora e Livro. Sendo necessário criar Editora e Autor primeiro, visto que seus Id's são referenciados no modelo Livro.</p>
